@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20" fill="none">
+  <path d="M18.3333 16.6667H1.6667" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+  <path d="M10 16.6667V18.3333" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+  <path d="M13.3333 16.6667V18.3333" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+  <path d="M16.6667 16.6667V18.3333" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+  <path d="M6.6667 16.6667V18.3333" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+  <path d="M3.3333 16.6667V18.3333" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+  <path d="M7.9167 13.3333H12.0833C14.038 13.3333 15.0153 13.3333 15.6886 12.8168 15.8619 12.6837 16.0171 12.5286 16.1501 12.3552 16.6667 11.682 16.6667 10.7047 16.6667 8.75 16.6667 6.7954 16.6667 5.818 16.1501 5.1448 16.0171 4.9714 15.8619 4.8163 15.6886 4.6833 15.0153 4.1667 14.038 4.1667 12.0833 4.1667H7.9167C5.962 4.1667 4.9847 4.1667 4.3114 4.6833 4.1381 4.8163 3.983 4.9714 3.8499 5.1448 3.3333 5.818 3.3333 6.7954 3.3333 8.75 3.3333 10.7047 3.3333 11.682 3.8499 12.3552 3.983 12.5286 4.1381 12.6837 4.3114 12.8168 4.9847 13.3333 5.962 13.3333 7.9167 13.3333Z" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+  <path d="M12.5 4.1667C12.5 2.9882 12.5 2.3989 12.1339 2.0328 11.7677 1.6667 11.1785 1.6667 10 1.6667 8.8215 1.6667 8.2322 1.6667 7.8661 2.0328 7.5 2.3989 7.5 2.9882 7.5 4.1667" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+  <path d="M3.3333 8.3333H16.6667" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+  <path d="M6.6667 7.5V9.1667" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+  <path d="M13.3333 7.5V9.1667" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+</svg>

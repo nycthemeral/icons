@@ -1,0 +1,68 @@
+{
+  "name": "@nycthemeral/icons",
+  "version": "0.0.4",
+  "description": "Custom SVG icon set generated as SolidJS components",
+  "keywords": [
+    "solidjs",
+    "icons",
+    "svg",
+    "solid",
+    "components",
+    "tree-shakeable"
+  ],
+  "license": "MIT",
+  "type": "module",
+  "main": "./dist/cjs/index.js",
+  "module": "./dist/esm/index.mjs",
+  "types": "./dist/types/index.d.ts",
+  "exports": {
+    ".": {
+      "types": "./dist/types/index.d.ts",
+      "solid": "./dist/source/index.jsx",
+      "import": "./dist/esm/index.mjs",
+      "require": "./dist/cjs/index.js"
+    },
+    "./icons/*": {
+      "types": "./dist/types/icons/*.d.ts",
+      "solid": "./dist/source/icons/*.jsx",
+      "import": "./dist/esm/icons/*.mjs",
+      "require": "./dist/cjs/icons/*.js"
+    }
+  },
+  "sideEffects": false,
+  "files": [
+    "dist"
+  ],
+  "peerDependencies": {
+    "solid-js": "^1.4.7"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nycthemeral/icons.git"
+  },
+  "homepage": "https://github.com/nycthemeral/icons#readme",
+  "bugs": {
+    "url": "https://github.com/nycthemeral/icons/issues"
+  },
+  "devDependencies": {
+    "@babel/core": "^7",
+    "@babel/preset-typescript": "^7",
+    "@rollup/plugin-babel": "^6",
+    "@types/node": "^20",
+    "babel-preset-solid": "^1.8",
+    "esbuild": "^0.25",
+    "glob": "^13.0.6",
+    "rollup": "^4",
+    "solid-js": "^1.9.13",
+    "tsx": "^4.22.4"
+  },
+  "scripts": {
+    "generate": "tsx scripts/generate.ts",
+    "build:icons": "pnpm generate",
+    "build": "pnpm build:icons && pnpm build:bundle",
+    "build:bundle": "node scripts/build.mjs",
+    "typecheck": "tsc --noEmit",
+    "test:smoke": "tsx scripts/verify-consumption.ts",
+    "prepublishOnly": "pnpm build"
+  }
+}

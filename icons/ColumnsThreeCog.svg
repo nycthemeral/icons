@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20" fill="none">
+  <path d="M16.6667 14.5833C16.6667 15.7339 15.7339 16.6667 14.5833 16.6667M16.6667 14.5833C16.6667 13.4328 15.7339 12.5 14.5833 12.5M16.6667 14.5833H17.9167M14.5833 16.6667C13.4328 16.6667 12.5 15.7339 12.5 14.5833M14.5833 16.6667V17.9167M12.5 14.5833C12.5 13.4328 13.4328 12.5 14.5833 12.5M12.5 14.5833H11.25M14.5833 12.5V11.25M16.0565 13.1102L16.9403 12.2263M13.1102 16.0565L12.2263 16.9403M16.0565 16.0565L16.9403 16.9403M13.1102 13.1102L12.2263 12.2263" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+  <path d="M17.0828 8.75C17.076 5.7629 16.9934 4.1901 15.985 3.1817 14.8867 2.0833 13.1188 2.0833 9.5833 2.0833 6.0478 2.0833 4.28 2.0833 3.1817 3.1817 2.0833 4.28 2.0833 6.0478 2.0833 9.5833 2.0833 13.1188 2.0833 14.8867 3.1817 15.985 4.1901 16.9934 5.7629 17.076 8.75 17.0828" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+  <path d="M7.0833 2.5V16.6667" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+  <path d="M12.0833 2.5V8.75" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+</svg>

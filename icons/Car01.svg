@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20" fill="none">
+  <path d="M2.0833 10L3.75 10.8333" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+  <path d="M17.9167 10.4167L16.25 10.8333" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+  <path d="M6.6667 14.5833L6.8714 14.0715C7.1758 13.3104 7.3281 12.9298 7.6455 12.7149 7.9629 12.5 8.3728 12.5 9.1926 12.5H10.8074C11.6272 12.5 12.0371 12.5 12.3545 12.7149 12.6719 12.9298 12.8242 13.3104 13.1286 14.0715L13.3333 14.5833" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+  <path d="M1.6667 14.1667V16.5683C1.6667 16.8839 1.8673 17.1725 2.1849 17.3137 2.391 17.4052 2.5878 17.5 2.8255 17.5H4.2579C4.4955 17.5 4.6924 17.4052 4.8984 17.3137 5.216 17.1725 5.4167 16.8839 5.4167 16.5683V15" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+  <path d="M14.5833 15V16.5683C14.5833 16.8839 14.784 17.1725 15.1016 17.3137 15.3077 17.4052 15.5045 17.5 15.7422 17.5H17.1745C17.4122 17.5 17.609 17.4052 17.8151 17.3137 18.1327 17.1725 18.3333 16.8839 18.3333 16.5683V14.1667" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+  <path d="M16.6667 7.0833L17.5 6.6667" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+  <path d="M3.3333 7.0833L2.5 6.6667" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+  <path d="M3.75 7.5L4.6569 4.7792C5.0236 3.6792 5.2069 3.1292 5.6434 2.8146 6.0799 2.5 6.6597 2.5 7.8192 2.5H12.1808C13.3403 2.5 13.9201 2.5 14.3566 2.8146 14.7931 3.1292 14.9764 3.6792 15.3431 4.7792L16.25 7.5" stroke="currentColor" stroke-linejoin="round" stroke-width="2"/>
+  <path d="M3.75 7.5H16.25C17.0477 8.3446 18.3333 9.5207 18.3333 10.833V13.7252C18.3333 14.2006 18.0171 14.6007 17.5973 14.6563L15 15H5L2.4026 14.6563C1.983 14.6007 1.6667 14.2006 1.6667 13.7252V10.833C1.6667 9.5207 2.9523 8.3446 3.75 7.5Z" stroke="currentColor" stroke-linejoin="round" stroke-width="2"/>
+</svg>

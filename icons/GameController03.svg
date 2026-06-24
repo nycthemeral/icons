@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20" fill="none">
+  <path d="M1.6735 13.1743C1.8593 10.2634 2.4061 8.1333 2.8695 6.8959 3.1035 6.2713 3.6068 5.8061 4.2512 5.6502 7.8346 4.7833 12.1655 4.7833 15.7488 5.6502 16.3933 5.8061 16.8966 6.2713 17.1305 6.8959 17.5939 8.1333 18.1408 10.2634 18.3265 13.1743 18.4376 14.9158 17.179 15.8753 15.7858 16.5771 14.8983 17.0241 14.2159 15.7048 13.7629 14.6836 13.5154 14.1257 12.9723 13.7797 12.3567 13.7797H7.6433C7.0278 13.7797 6.4847 14.1257 6.2371 14.6836 5.7841 15.7048 5.1017 17.0241 4.2143 16.5771 2.8351 15.8823 1.5615 14.9298 1.6735 13.1743Z" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+  <path d="M4.1667 3.75L5.8024 3.3333M15.8333 3.75L14.1667 3.3333" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+  <path d="M7.5 10.8333L6.25 9.5833M6.25 9.5833L5 8.3333M6.25 9.5833L5 10.8333M6.25 9.5833L7.5 8.3333" stroke="currentColor" stroke-linecap="round" stroke-width="2"/>
+  <path d="M13.3234 8.3333H13.3309" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+  <path d="M14.9901 10.8333H14.9976" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+</svg>

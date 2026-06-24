@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20" fill="none">
+  <path d="M10 11.6667H5C3.4286 11.6667 2.643 11.6667 2.1548 12.1548 1.6667 12.643 1.6667 13.4287 1.6667 15V15.8333H13.3333V15C13.3333 13.4287 13.3333 12.643 12.8452 12.1548 12.357 11.6667 11.5713 11.6667 10 11.6667Z" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+  <path d="M12.5 11.6667L12.2026 10.1796C11.9461 8.8969 11.8178 8.2555 11.357 7.8778 10.8962 7.5 10.2421 7.5 8.934 7.5H6.066C4.7579 7.5 4.1038 7.5 3.643 7.8778 3.1822 8.2555 3.054 8.8969 2.7974 10.1796L2.5 11.6667" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+  <path d="M12.0833 9.1669H12.5C14.0713 9.1669 14.857 9.1669 15.3452 9.6551 15.8333 10.1433 15.8333 10.9289 15.8333 12.5002V15M15 9.1669L14.7026 7.6799C14.4461 6.3972 14.3178 5.7558 13.857 5.378 13.3962 5.0003 12.7421 5.0003 11.434 5.0003L8.7323 5C7.4242 5 6.7701 5 6.3093 5.3778 5.8706 5.7375 5.7333 6.3362 5.4997 7.5" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+  <path d="M14.5833 6.6669H15C16.5713 6.6669 17.357 6.6669 17.8452 7.1551 18.3333 7.6433 18.3333 8.4289 18.3333 10.0002V12.5M17.5 6.6669L17.2026 5.1799C16.9461 3.8972 16.8178 3.2558 16.357 2.8781 15.8962 2.5003 15.2421 2.5003 13.934 2.5003L11.2323 2.5C9.9242 2.5 9.2701 2.5 8.8093 2.8778 8.3706 3.2375 8.2333 3.8362 7.9997 5" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+  <path d="M9.1667 15H5.8333L5 15.8333H10L9.1667 15Z" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+  <path d="M11.25 13.75V13.7583" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+  <path d="M3.75 13.75V13.7583" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+  <path d="M1.6667 17.5V15.8333H2.5V17.5H1.6667Z" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+  <path d="M13.3333 15.8333V17.5H12.5V15.8333H13.3333Z" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+</svg>

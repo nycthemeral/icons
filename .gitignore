@@ -1,0 +1,13 @@
+# Dependencies
+node_modules/
+
+# Build output
+dist/
+
+# Generated icon sources (source of truth is icons/*.svg + generator)
+src/icons/
+
+# Misc
+.DS_Store
+*.log
+tsc_error.log

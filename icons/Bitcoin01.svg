@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20" fill="none">
+  <path d="M10 1.6667C5.3976 1.6667 1.6667 5.3976 1.6667 10 1.6667 14.6023 5.3976 18.3333 10 18.3333 14.6023 18.3333 18.3333 14.6023 18.3333 10 18.3333 5.3976 14.6023 1.6667 10 1.6667Z" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+  <path d="M10 4.1667C6.7783 4.1667 4.1667 6.7783 4.1667 10 4.1667 13.2217 6.7783 15.8333 10 15.8333 13.2217 15.8333 15.8333 13.2217 15.8333 10 15.8333 6.7783 13.2217 4.1667 10 4.1667Z" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+  <path d="M10 1.6667V4.1667" stroke="currentColor" stroke-linecap="round" stroke-width="2"/>
+  <path d="M10 15.8333V18.3333" stroke="currentColor" stroke-linecap="round" stroke-width="2"/>
+  <path d="M2.7831 5.8333L4.9482 7.0833" stroke="currentColor" stroke-linecap="round" stroke-width="2"/>
+  <path d="M15.0521 12.9167L17.2172 14.1667" stroke="currentColor" stroke-linecap="round" stroke-width="2"/>
+  <path d="M17.2169 5.8333L15.0518 7.0833" stroke="currentColor" stroke-linecap="round" stroke-width="2"/>
+  <path d="M4.9479 12.9167L2.7829 14.1667" stroke="currentColor" stroke-linecap="round" stroke-width="2"/>
+  <path d="M8.6979 12.2223L8.6979 7.7778M10 7.7778V6.6667M10 13.3333V12.2223M8.6979 10H11.3021M11.3021 10C11.7336 10 12.0833 10.3731 12.0833 10.8333V11.3889C12.0833 11.8492 11.7336 12.2223 11.3021 12.2223H7.9167M11.3021 10C11.7336 10 12.0833 9.6269 12.0833 9.1667V8.6111C12.0833 8.1509 11.7336 7.7778 11.3021 7.7778H7.9167" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+</svg>

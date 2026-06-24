@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20" fill="none">
+  <path d="M10.0001 12.5747C9.5346 13.1799 8.3797 14.3587 7.0353 14.9149 6.5749 15.1055 6.0524 14.9703 5.7487 14.5661 5.0941 13.6951 4.3816 12.1204 4.6364 10" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+  <path d="M7.8502 3.6834C8.5254 3.4564 9.2484 3.3333 10.0001 3.3333 10.0001 4.085 9.8771 4.808 9.65 5.4832M5.2709 5.2708C4.4873 6.0423 3.8917 7.0042 3.5588 8.0814 3.3111 8.8833 3.1872 9.2842 3.6183 9.7152 4.0493 10.1463 4.4502 10.0223 5.252 9.7746 6.3292 9.4418 7.2911 8.8461 8.0626 8.0625" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+  <path d="M14.7483 9.7746C15.55 10.0223 15.9509 10.1463 16.3819 9.7152 16.813 9.2842 16.6891 8.8833 16.4413 8.0814 15.5917 5.3314 13.0292 3.3333 10.0001 3.3333 10.0001 6.3625 11.9982 8.9249 14.7483 9.7746Z" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+  <path d="M10.0001 3.3333V1.6667" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+  <path d="M10 12.5747C10.4655 13.1799 11.6205 14.3587 12.9648 14.9149 13.4253 15.1055 13.9477 14.9703 14.2514 14.5661 14.295 14.508 14.3389 14.4468 14.3827 14.3827M15.3637 10C15.4163 10.4371 15.4277 10.8509 15.4069 11.2402" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+  <path d="M7.5 8.75C7.8333 10.4167 9.3056 11.9444 10 12.5 10.3125 12.25 10.7825 11.8032 11.2353 11.2353" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+  <path d="M12.9168 15C12.6878 15.6257 11.9873 16.9525 10.8151 18.0118 10.3407 18.4405 9.6596 18.4405 9.1852 18.0118 8.0129 16.9525 7.3124 15.6257 7.0834 15" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+  <path d="M1.6667 1.6667L18.3333 18.3333" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+</svg>
