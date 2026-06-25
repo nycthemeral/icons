@@ -29,6 +29,9 @@
       "require": "./dist/cjs/icons/*.js"
     }
   },
+  "publishConfig": {
+    "access": "public"
+  },
   "sideEffects": false,
   "files": [
     "dist"
@@ -45,11 +48,7 @@
     "url": "https://github.com/nycthemeral/icons/issues"
   },
   "devDependencies": {
-    "@babel/core": "^7",
-    "@babel/preset-typescript": "^7",
-    "@rollup/plugin-babel": "^6",
     "@types/node": "^20",
-    "babel-preset-solid": "^1.8",
     "esbuild": "^0.25",
     "glob": "^13.0.6",
     "rollup": "^4",

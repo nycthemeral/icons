@@ -1,0 +1,5 @@
+{
+  "name": "@nycthemeral/icons",
+  "version": "0.0.4",
+  "exports": "./dist/esm/index.mjs"
+}
